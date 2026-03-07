@@ -1,0 +1,7 @@
+# Dataset
+dataset/downloads
+dataset/Salesforce*
+
+# Cache
+.DS_Store
+__pycache__
